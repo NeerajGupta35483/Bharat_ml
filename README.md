@@ -39,7 +39,7 @@ Clone this repository to your local machine (if you haven't already):
 
 shell
 Copy code
-git clone https://github.com/neerajgupta2407/wine-quality-detection.git
+git clone [https://github.com/neerajgupta2407/wine-quality-detection.git](https://github.com/NeerajGupta35483/Bharat_ml/blob/main/Wine_quality.ipynb)
 Navigate to the wine-quality-detection directory:
 
 shell
