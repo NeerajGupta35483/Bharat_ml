@@ -12,7 +12,7 @@ Clone this repository to your local machine:
 
 shell
 Copy code
-git clone https://github.com/neerajgupta2407/house-prediction.git
+git clone [https://github.com/neerajgupta2407/house-prediction.git](https://github.com/NeerajGupta35483/Bharat_ml/blob/main/House_prediction.ipynb)
 Navigate to the house-prediction directory:
 
 shell
